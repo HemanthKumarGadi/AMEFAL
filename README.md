@@ -28,16 +28,6 @@
 > **Note:** The script will raise a `RuntimeError` at startup if no CUDA GPU is detected.
 
 ```
----
-
-## Data Preparation
-
-### Folder structure
-
-Place all data under a single base directory. The default is `E:\hemanth\data\data` — change `BASE_DIR` in `main()` if your path differs.
-
-
-
 
 
 ```
