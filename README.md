@@ -27,9 +27,9 @@
 
 > **Note:** The script will raise a `RuntimeError` at startup if no CUDA GPU is detected.
 
-```
 
-----
+
+
 ```
 <BASE_DIR>/
 │
