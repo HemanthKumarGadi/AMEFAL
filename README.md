@@ -29,7 +29,7 @@
 
 ```
 
-
+----
 ```
 <BASE_DIR>/
 │
@@ -45,15 +45,8 @@
 ├── test_img/             ← Test images (evaluated every iteration)
 └── test_lab/             ← Test masks
 ```
+-----
 
-### Mask format
-
-| Rule | Detail |
-|---|---|
-| Format | Grayscale PNG, JPG, or TIF |
-| Pixel values | Integer class indices **0–8** only |
-| Filename pairing | `image_001.png` must have `image_001.png` in the labels folder |
-| Resolution | Any — all images are resized to **512 × 512** internally |
 
 ### Class index reference
 
