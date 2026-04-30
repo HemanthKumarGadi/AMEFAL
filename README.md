@@ -157,8 +157,7 @@ ACTIVE LEARNING SAMPLING METHOD SELECTION
 ```
 
 
-> **Tip:** Use `7` for the full AAMEAL framework. Use `1` for a quick baseline.
-
+> **Tip:** Use `1,2,3` for the full AAMEAL framework.
 
 
 
